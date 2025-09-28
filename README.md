@@ -16,6 +16,6 @@ This is my first HTML project for Assignment Travel website.
 - Simple navigation bar with table
 - Web page end with copyright
 
-## Output
+## Conclusion
 The website shows travel destinations, packages, and contact information.  
 This project is only made with basic HTML tags, no CSS or Javascript.
